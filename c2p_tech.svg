@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <title>C2P TECH</title>
+
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="normal" transform="matrix(6.56101 0 0 5.58415 -583.906 -809.166)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_1" y="205.52128" x="113.99251" stroke-width="0" fill="#f2f2f2">C2P</text>
+  <text font-style="normal" font-weight="normal" transform="matrix(3.04759 0 0 2.62595 -721.651 -602.457)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Rounded Mplus 1c Black'" font-size="24" id="svg_2" y="371.32508" x="371.11603" stroke-width="0" fill="#c6c6c6">TECH</text>
+  <path transform="rotate(180 543 258.61)" stroke="#000" id="svg_4" d="m496.99997,198.10998l0,68.06247l0,0c0,29.23656 18.02054,52.93749 40.25001,52.93749l0,0l0,0c10.67496,0 20.91271,-5.57733 28.46106,-15.50503c7.54834,-9.9277 11.78895,-23.39256 11.78895,-37.43246l0,-7.5625l11.49999,0l-22.99999,-30.25l-23.00001,30.25l11.5,0l0,7.5625c0,12.52995 -7.72309,22.68749 -17.25,22.68749l0,0l0,0c-9.52692,0 -17.25,-10.15753 -17.25,-22.68749l0,-68.06247l-23.00001,0z" stroke-width="0" fill="#f2f2f2"/>
+ </g>
+</svg>
